@@ -37,6 +37,3 @@
 - ⚡ Goals: Contribute to Open Source projects and Learn a lot.
 
 <hr/>
-
-| <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=vishalkumar9&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Vishal Kumar Singh's github stats" /></a> | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalkumar9&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
